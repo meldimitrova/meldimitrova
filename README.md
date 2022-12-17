@@ -6,7 +6,7 @@ I'm a recent computer science graduate looking for work experience. I'm interest
 * 📚 Reading and creative writing
 * 📝 Learning foreign languages
 
-# Contact me 🌐
+## Contact me 🌐
 
 * [LinkedIn](https://www.linkedin.com/in/melina-dimitrova/)
 * [Facebook](https://www.facebook.com/mellydesigns)
